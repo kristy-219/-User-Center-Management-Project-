@@ -1,2 +1,4 @@
 # -User-Center-Management-Project-
 在yupi那里学习的最最最最最最基础的项目，只是一个模板帮助我在开始学习的时候学习知识......
+账户：yupi
+密码：123456
