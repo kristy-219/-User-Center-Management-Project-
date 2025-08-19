@@ -1,0 +1,14 @@
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\service\impl\UserServiceImpl.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\common\BaseResponse.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\exception\GlobalExceptionHandler.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\model\domain\User.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\model\domain\request\UserRegisterRequest.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\controller\UserController.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\common\ErrorCode.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\exception\BusinessException.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\common\ResultUtils.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\contant\UserConstant.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\mapper\UserMapper.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\service\UserService.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\UserCenterApplication.java
+E:\completedProject\user-center\user-center-backend-master\src\main\java\com\yupi\usercenter\model\domain\request\UserLoginRequest.java
